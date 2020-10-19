@@ -1,0 +1,40 @@
+body {
+  margin: 0 auto;
+  max-width: 50em;
+    font-family: "Helvetica", "Arial", sans-serif;
+  line-height: 1.5;
+  padding: 4em 1em;    
+    }
+
+a {
+  border: 1px solid #e81c4f;
+  border-radius: 290486px;
+  color: black;
+  font-size: 0.6em;
+  letter-spacing: 0.2em;
+  padding: 1em 2em;
+  text-transform: uppercase;
+  text-decoration: none;
+  transition: none 200ms ease-out;
+  transition-property: color, background;
+}
+
+h1 {
+  color: blue;
+  text-align: center;
+    }
+
+    p {
+      font-family: verdana;
+      font-size: 20px;
+    }
+            
+    .title {
+       font-family: verdana;
+      font-size: 36px;
+        background-color: white; 
+    }
+
+    .image {
+       background-color: black;
+    }
